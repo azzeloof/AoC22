@@ -16,18 +16,14 @@ Advent of Code 2022
 - [ ] Matlab
 - [ ] Labview
 - [ ] BASIC
-- [ ] PureData
-- [ ] Max MSP
+- [ ] PureData/ MaxMSP
 - [ ] VBScript
 - [ ] R
--
--
--
--
--
--
-
-
-uniscript?
-Go?
-Julia?
+- [X] SML
+- [ ] OpenSCAD
+- [ ] Onshape Feature Script
+- [ ] Go
+- [ ] Julia
+- [ ] Lsip
+- [ ] Haskell
+- [ ] COBOL
