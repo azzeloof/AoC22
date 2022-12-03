@@ -1,5 +1,5 @@
-# AoC22
-Advent of Code 2022
+# (s)Advent of Code 2022
+Sadvent of Code 2022: Advent of Code with a different language each day
 
 ### Languages:
 - [ ] Python
