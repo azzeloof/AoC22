@@ -26,4 +26,4 @@ Sadvent of Code 2022: Advent of Code with a different language each day
 - [ ] Julia
 - [ ] Lsip
 - [ ] Haskell
-- [ ] COBOL
+- [X] COBOL
