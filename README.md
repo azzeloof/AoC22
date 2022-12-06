@@ -12,7 +12,7 @@ Sadvent of Code 2022: Advent of Code with a different language each day
 - [X] Excel/Google Sheets Cell Formulas
 - [ ] Verilog
 - [ ] Assembly (Supercon badge?)
-- [ ] Rust
+- [X] Rust
 - [ ] Matlab
 - [ ] Labview
 - [X] BASIC
