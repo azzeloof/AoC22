@@ -15,7 +15,7 @@ Sadvent of Code 2022: Advent of Code with a different language each day
 - [ ] Rust
 - [ ] Matlab
 - [ ] Labview
-- [ ] BASIC
+- [X] BASIC
 - [ ] PureData/ MaxMSP
 - [ ] VBScript
 - [ ] R
