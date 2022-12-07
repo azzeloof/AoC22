@@ -23,7 +23,7 @@ Sadvent of Code 2022: Advent of Code with a different language each day
 - [ ] OpenSCAD
 - [ ] Onshape Feature Script
 - [ ] Go
-- [ ] Julia
+- [X] Julia
 - [ ] Lisp
 - [ ] Haskell
 - [X] COBOL
