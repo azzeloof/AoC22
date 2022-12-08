@@ -18,7 +18,7 @@ Sadvent of Code 2022: Advent of Code with a different language each day
 - [X] BASIC
 - [ ] PureData/ MaxMSP
 - [ ] VBScript
-- [ ] R
+- [X] R
 - [X] SML
 - [ ] OpenSCAD
 - [ ] Onshape Feature Script
