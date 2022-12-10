@@ -5,7 +5,7 @@ Sadvent of Code 2022: Advent of Code with a different language each day
 - [ ] Python
 - [ ] C/C++
 - [ ] C#
-- [ ] Fortran
+- [X] Fortran
 - [ ] Java
 - [ ] Javascript
 - [X] Scratch
