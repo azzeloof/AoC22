@@ -10,7 +10,7 @@ Sadvent of Code 2022: Advent of Code with a different language each day
 - [ ] Javascript
 - [X] Scratch
 - [X] Excel/Google Sheets Cell Formulas
-- [ ] Verilog
+- [X] Verilog
 - [ ] Assembly (Supercon badge?)
 - [X] Rust
 - [ ] Matlab
